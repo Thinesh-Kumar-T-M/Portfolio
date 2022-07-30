@@ -202,9 +202,9 @@ h1, h2, h3, h4, h5, h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
+  width:auto;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/portfolio-bg4.jpg") top center;
   background-size: cover;
 }
 
@@ -279,6 +279,7 @@ section {
 
 .section-title {
   padding-bottom: 30px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
 }
 
 .section-title h2 {
