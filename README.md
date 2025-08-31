@@ -1,1 +1,1 @@
-# Thinesh's Portfoliio Git
+# Thinesh's Portfolio Git
